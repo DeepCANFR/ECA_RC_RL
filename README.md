@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository is a framework for exploring the usage of elementary cellular automata rules as a reservoir computer on reinforcement learning tasks. It was developed for [this](_blank) master thesis in collaberation with OsloMet Living Technology Lab. 
+This repository is a framework for exploring the usage of elementary cellular automata rules as a reservoir computer on reinforcement learning tasks. It was developed for [this](_blank) master thesis in collaboration with OsloMet Living Technology Lab. 
 
 ## Setup
 
